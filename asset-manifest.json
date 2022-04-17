@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de61406a.css",
+    "main.js": "/static/js/main.f87c3d33.js",
+    "static/media/vod.mp4": "/static/media/vod.999233ad7a77ba888f80.mp4",
+    "static/media/vod.webm": "/static/media/vod.cc1ae5931aa3f8f760c4.webm",
+    "static/media/media1.png": "/static/media/media1.4c31a7112f7cb6ac0f4f.png",
+    "static/media/Gradian_Whitepaper.pdf": "/static/media/Gradian_Whitepaper.9f7c5c1c0340e9eef5e0.pdf",
+    "static/media/media2.png": "/static/media/media2.eaa701e2464dcf7e3169.png",
+    "static/media/all_in_one.png": "/static/media/all_in_one.a98ecc993dedc3757719.png",
+    "static/media/SFProDisplay-Semibold.woff2": "/static/media/SFProDisplay-Semibold.c8af8b1e2cbb7f07bcfd.woff2",
+    "static/media/SFProDisplay-Bold.woff2": "/static/media/SFProDisplay-Bold.eec28c256a8edd789037.woff2",
+    "static/media/SFProDisplay-Black.woff2": "/static/media/SFProDisplay-Black.214fc781a8c0c230a87b.woff2",
+    "static/media/SFProDisplay-Regular.woff2": "/static/media/SFProDisplay-Regular.136fe91d040982e81d29.woff2",
+    "static/media/unrealDark.png": "/static/media/unrealDark.fb59db75d38ddc9260a8.png",
+    "static/media/algorandBC.png": "/static/media/algorandBC.be0474871674c4a64597.png",
+    "static/media/lightUnreal.png": "/static/media/lightUnreal.d15460a8d7fa465220d6.png",
+    "static/media/lightUnity.png": "/static/media/lightUnity.2be03c2a635b29bbf465.png",
+    "static/media/darkUnity.png": "/static/media/darkUnity.5771151e4d26012c85b7.png",
+    "static/media/jslogo.png": "/static/media/jslogo.2e10b2a247e94504d12c.png",
+    "static/media/logo.svg": "/static/media/logo.d8c6977931b9796a72d8ba076722c101.svg",
+    "static/media/algorandLight.svg": "/static/media/algorandLight.1d66833e169c63545340fa74840daaca.svg",
+    "static/media/algorandDark.svg": "/static/media/algorandDark.08f6be02d73c329a008086d5ad5be4f8.svg",
+    "static/media/DiscordWhite.svg": "/static/media/DiscordWhite.9a823ca6b8fc45606216d185eb2ba419.svg",
+    "static/media/discord.svg": "/static/media/discord.c4900a9df1134fa22b7796e5733291da.svg",
+    "static/media/shop.svg": "/static/media/shop.285573aec4b6da0a1863a6c5460e8ccd.svg",
+    "static/media/poker-hand.svg": "/static/media/poker-hand.3b29dc34dfe370b21bd261bb6dfde6da.svg",
+    "static/media/Slick.woff": "/static/media/Slick.295183786cd8a1389865.woff",
+    "static/media/minerals.svg": "/static/media/minerals.5760cd7757638ca1acf828f6530a8473.svg",
+    "static/media/axe-sword.svg": "/static/media/axe-sword.f6a459847eaa5d17e11e2b73c2b57a45.svg",
+    "static/media/trade.svg": "/static/media/trade.85f8c47836f90730138ae27bccc7f134.svg",
+    "static/media/wallet.svg": "/static/media/wallet.184cc1d296103fb3b0051b88421a773e.svg",
+    "index.html": "/index.html",
+    "main.de61406a.css.map": "/static/css/main.de61406a.css.map",
+    "main.f87c3d33.js.map": "/static/js/main.f87c3d33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de61406a.css",
+    "static/js/main.f87c3d33.js"
+  ]
+}
