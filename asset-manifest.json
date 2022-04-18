@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.de61406a.css",
-    "main.js": "/static/js/main.b33f2706.js",
+    "main.js": "/static/js/main.34547a3a.js",
     "static/media/vod.mp4": "/static/media/vod.999233ad7a77ba888f80.mp4",
     "static/media/vod.webm": "/static/media/vod.cc1ae5931aa3f8f760c4.webm",
     "static/media/Gradian_Whitepaper.pdf": "/static/media/Gradian_Whitepaper.10195e0f8526593dacf7.pdf",
-    "static/media/media1.png": "/static/media/media1.783e272041ed2bd44fdf.png",
     "static/media/SFProDisplay-Semibold.woff2": "/static/media/SFProDisplay-Semibold.c8af8b1e2cbb7f07bcfd.woff2",
     "static/media/SFProDisplay-Bold.woff2": "/static/media/SFProDisplay-Bold.eec28c256a8edd789037.woff2",
-    "static/media/media2.png": "/static/media/media2.6a557a36c30380ffa2f1.png",
     "static/media/SFProDisplay-Black.woff2": "/static/media/SFProDisplay-Black.214fc781a8c0c230a87b.woff2",
     "static/media/SFProDisplay-Regular.woff2": "/static/media/SFProDisplay-Regular.136fe91d040982e81d29.woff2",
-    "static/media/all_in_one.png": "/static/media/all_in_one.4204e87bc4432bb5d095.png",
-    "static/media/algorandBC.png": "/static/media/algorandBC.ed4512ecea1a75f0b75b.png",
-    "static/media/unrealDark.png": "/static/media/unrealDark.08e996fd3c4d4e611abc.png",
-    "static/media/lightUnreal.png": "/static/media/lightUnreal.1d883e08a3db12d14c2d.png",
-    "static/media/lightUnity.png": "/static/media/lightUnity.6fd5ed54adafd0d186d4.png",
+    "static/media/media2.webp": "/static/media/media2.c973f3a4654b80a7cc95.webp",
+    "static/media/media1.webp": "/static/media/media1.883af1ab7be02d8c0aa1.webp",
+    "static/media/all_in_one.webp": "/static/media/all_in_one.5ca4ec5f423806a39ca0.webp",
+    "static/media/lightUnreal.webp": "/static/media/lightUnreal.11447b6ee0f6e2ea383b.webp",
+    "static/media/algorandBC.webp": "/static/media/algorandBC.4dd0787dda286f5f5399.webp",
+    "static/media/unrealDark.webp": "/static/media/unrealDark.4b030c1b8aad68f40429.webp",
+    "static/media/jslogo.webp": "/static/media/jslogo.cb2cf17af2840de9d854.webp",
+    "static/media/darkUnity.webp": "/static/media/darkUnity.3eaeef675f72ec88a375.webp",
+    "static/media/lightUnity.webp": "/static/media/lightUnity.bf7194fcd3efb893100c.webp",
     "index.html": "/index.html",
     "static/media/logo.svg": "/static/media/logo.d8c6977931b9796a72d8ba076722c101.svg",
     "static/media/algorandLight.svg": "/static/media/algorandLight.1d66833e169c63545340fa74840daaca.svg",
@@ -30,10 +32,10 @@
     "static/media/trade.svg": "/static/media/trade.85f8c47836f90730138ae27bccc7f134.svg",
     "static/media/wallet.svg": "/static/media/wallet.184cc1d296103fb3b0051b88421a773e.svg",
     "main.de61406a.css.map": "/static/css/main.de61406a.css.map",
-    "main.b33f2706.js.map": "/static/js/main.b33f2706.js.map"
+    "main.34547a3a.js.map": "/static/js/main.34547a3a.js.map"
   },
   "entrypoints": [
     "static/css/main.de61406a.css",
-    "static/js/main.b33f2706.js"
+    "static/js/main.34547a3a.js"
   ]
 }
