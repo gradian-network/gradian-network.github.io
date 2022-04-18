@@ -18,6 +18,7 @@
     "static/media/lightUnity.png": "/static/media/lightUnity.2be03c2a635b29bbf465.png",
     "static/media/darkUnity.png": "/static/media/darkUnity.5771151e4d26012c85b7.png",
     "static/media/jslogo.png": "/static/media/jslogo.2e10b2a247e94504d12c.png",
+    "index.html": "/index.html",
     "static/media/logo.svg": "/static/media/logo.d8c6977931b9796a72d8ba076722c101.svg",
     "static/media/algorandLight.svg": "/static/media/algorandLight.1d66833e169c63545340fa74840daaca.svg",
     "static/media/algorandDark.svg": "/static/media/algorandDark.08f6be02d73c329a008086d5ad5be4f8.svg",
@@ -30,7 +31,6 @@
     "static/media/axe-sword.svg": "/static/media/axe-sword.f6a459847eaa5d17e11e2b73c2b57a45.svg",
     "static/media/trade.svg": "/static/media/trade.85f8c47836f90730138ae27bccc7f134.svg",
     "static/media/wallet.svg": "/static/media/wallet.184cc1d296103fb3b0051b88421a773e.svg",
-    "index.html": "/index.html",
     "main.de61406a.css.map": "/static/css/main.de61406a.css.map",
     "main.70f83933.js.map": "/static/js/main.70f83933.js.map"
   },
