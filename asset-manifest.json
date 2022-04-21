@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.de61406a.css",
-    "main.js": "/static/js/main.14b31049.js",
+    "main.js": "/static/js/main.74fd3a55.js",
     "static/media/vod.mp4": "/static/media/vod.999233ad7a77ba888f80.mp4",
     "static/media/vod.webm": "/static/media/vod.cc1ae5931aa3f8f760c4.webm",
     "static/media/Gradian_Whitepaper.pdf": "/static/media/Gradian_Whitepaper.10195e0f8526593dacf7.pdf",
@@ -33,10 +33,10 @@
     "static/media/trade.svg": "/static/media/trade.85f8c47836f90730138ae27bccc7f134.svg",
     "static/media/wallet.svg": "/static/media/wallet.184cc1d296103fb3b0051b88421a773e.svg",
     "main.de61406a.css.map": "/static/css/main.de61406a.css.map",
-    "main.14b31049.js.map": "/static/js/main.14b31049.js.map"
+    "main.74fd3a55.js.map": "/static/js/main.74fd3a55.js.map"
   },
   "entrypoints": [
     "static/css/main.de61406a.css",
-    "static/js/main.14b31049.js"
+    "static/js/main.74fd3a55.js"
   ]
 }
