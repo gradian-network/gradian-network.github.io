@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.de61406a.css",
-    "main.js": "/static/js/main.6fc7b7a8.js",
+    "main.js": "/static/js/main.8a8ab457.js",
     "static/media/vod.mp4": "/static/media/vod.999233ad7a77ba888f80.mp4",
     "static/media/vod.webm": "/static/media/vod.cc1ae5931aa3f8f760c4.webm",
-    "static/media/Gradian_Whitepaper.pdf": "/static/media/Gradian_Whitepaper.fd2a59d8554701d2db3b.pdf",
+    "static/media/Gradian_Whitepaper.pdf": "/static/media/Gradian_Whitepaper.2520f77e112628b0f7a9.pdf",
     "static/media/SFProDisplay-Semibold.woff2": "/static/media/SFProDisplay-Semibold.c8af8b1e2cbb7f07bcfd.woff2",
     "static/media/SFProDisplay-Bold.woff2": "/static/media/SFProDisplay-Bold.eec28c256a8edd789037.woff2",
     "static/media/SFProDisplay-Black.woff2": "/static/media/SFProDisplay-Black.214fc781a8c0c230a87b.woff2",
@@ -33,10 +33,10 @@
     "static/media/trade.svg": "/static/media/trade.85f8c47836f90730138ae27bccc7f134.svg",
     "static/media/wallet.svg": "/static/media/wallet.184cc1d296103fb3b0051b88421a773e.svg",
     "main.de61406a.css.map": "/static/css/main.de61406a.css.map",
-    "main.6fc7b7a8.js.map": "/static/js/main.6fc7b7a8.js.map"
+    "main.8a8ab457.js.map": "/static/js/main.8a8ab457.js.map"
   },
   "entrypoints": [
     "static/css/main.de61406a.css",
-    "static/js/main.6fc7b7a8.js"
+    "static/js/main.8a8ab457.js"
   ]
 }
