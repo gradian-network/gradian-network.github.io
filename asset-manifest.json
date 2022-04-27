@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1dcf954a.css",
-    "main.js": "/static/js/main.0476e8bc.js",
+    "main.css": "/static/css/main.52df95df.css",
+    "main.js": "/static/js/main.75062fc3.js",
     "static/media/vod.mp4": "/static/media/vod.999233ad7a77ba888f80.mp4",
     "static/media/vod.webm": "/static/media/vod.cc1ae5931aa3f8f760c4.webm",
     "static/media/Gradian_Whitepaper.pdf": "/static/media/Gradian_Whitepaper.2520f77e112628b0f7a9.pdf",
@@ -35,11 +35,11 @@
     "static/media/axe-sword.svg": "/static/media/axe-sword.f6a459847eaa5d17e11e2b73c2b57a45.svg",
     "static/media/trade.svg": "/static/media/trade.85f8c47836f90730138ae27bccc7f134.svg",
     "static/media/wallet.svg": "/static/media/wallet.184cc1d296103fb3b0051b88421a773e.svg",
-    "main.1dcf954a.css.map": "/static/css/main.1dcf954a.css.map",
-    "main.0476e8bc.js.map": "/static/js/main.0476e8bc.js.map"
+    "main.52df95df.css.map": "/static/css/main.52df95df.css.map",
+    "main.75062fc3.js.map": "/static/js/main.75062fc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dcf954a.css",
-    "static/js/main.0476e8bc.js"
+    "static/css/main.52df95df.css",
+    "static/js/main.75062fc3.js"
   ]
 }
