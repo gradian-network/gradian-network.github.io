@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.de61406a.css",
-    "main.js": "/static/js/main.8a8ab457.js",
+    "main.css": "/static/css/main.96623dc8.css",
+    "main.js": "/static/js/main.0476e8bc.js",
     "static/media/vod.mp4": "/static/media/vod.999233ad7a77ba888f80.mp4",
     "static/media/vod.webm": "/static/media/vod.cc1ae5931aa3f8f760c4.webm",
     "static/media/Gradian_Whitepaper.pdf": "/static/media/Gradian_Whitepaper.2520f77e112628b0f7a9.pdf",
@@ -9,6 +9,7 @@
     "static/media/SFProDisplay-Bold.woff2": "/static/media/SFProDisplay-Bold.eec28c256a8edd789037.woff2",
     "static/media/SFProDisplay-Black.woff2": "/static/media/SFProDisplay-Black.214fc781a8c0c230a87b.woff2",
     "static/media/SFProDisplay-Regular.woff2": "/static/media/SFProDisplay-Regular.136fe91d040982e81d29.woff2",
+    "static/media/winton.webp": "/static/media/winton.3675b93621062956c316.webp",
     "static/media/media2.webp": "/static/media/media2.c973f3a4654b80a7cc95.webp",
     "static/media/media1.webp": "/static/media/media1.883af1ab7be02d8c0aa1.webp",
     "static/media/all_in_one.webp": "/static/media/all_in_one.5ca4ec5f423806a39ca0.webp",
@@ -16,8 +17,10 @@
     "static/media/lightUnreal.webp": "/static/media/lightUnreal.11447b6ee0f6e2ea383b.webp",
     "static/media/algorandBC.webp": "/static/media/algorandBC.4dd0787dda286f5f5399.webp",
     "static/media/unrealDark.webp": "/static/media/unrealDark.4b030c1b8aad68f40429.webp",
+    "static/media/brandon.webp": "/static/media/brandon.ec2810a3dbd28a49075e.webp",
     "static/media/jslogo.webp": "/static/media/jslogo.cb2cf17af2840de9d854.webp",
     "static/media/darkUnity.webp": "/static/media/darkUnity.3eaeef675f72ec88a375.webp",
+    "static/media/morton.webp": "/static/media/morton.b9bde62153e291893dfb.webp",
     "static/media/lightUnity.webp": "/static/media/lightUnity.bf7194fcd3efb893100c.webp",
     "index.html": "/index.html",
     "static/media/logo.svg": "/static/media/logo.d8c6977931b9796a72d8ba076722c101.svg",
@@ -32,11 +35,11 @@
     "static/media/axe-sword.svg": "/static/media/axe-sword.f6a459847eaa5d17e11e2b73c2b57a45.svg",
     "static/media/trade.svg": "/static/media/trade.85f8c47836f90730138ae27bccc7f134.svg",
     "static/media/wallet.svg": "/static/media/wallet.184cc1d296103fb3b0051b88421a773e.svg",
-    "main.de61406a.css.map": "/static/css/main.de61406a.css.map",
-    "main.8a8ab457.js.map": "/static/js/main.8a8ab457.js.map"
+    "main.96623dc8.css.map": "/static/css/main.96623dc8.css.map",
+    "main.0476e8bc.js.map": "/static/js/main.0476e8bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.de61406a.css",
-    "static/js/main.8a8ab457.js"
+    "static/css/main.96623dc8.css",
+    "static/js/main.0476e8bc.js"
   ]
 }
